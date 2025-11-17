@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#image-container {
+    margin-top: 20px;
+}
+
+#cat-image {
+    width: 90%;
+    max-width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+#buttons {
+    margin-top: 20px;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 16px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#like-btn {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#dislike-btn {
+    background-color: #f44336;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+#liked-images img {
+    width: 120px;
+    margin: 5px;
+    border-radius: 6px;
+}
