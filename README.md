@@ -1,11 +1,11 @@
-# 🐾 Paws & Preferences – QA Engineer Assessment  
+# Paws & Preferences – QA Engineer Assessment  
 ### Submitted by: **Nur Azira Binti Azman**
 
 Live Demo:  
-🔗 https://aziraeftech.github.io/paws-preferences-qa/
+https://aziraeftech.github.io/paws-preferences-qa/
 
 Repository:  
-🔗 https://github.com/aziraeftech/paws-preferences-qa
+https://github.com/aziraeftech/paws-preferences-qa
 
 ---
 
